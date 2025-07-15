@@ -1,0 +1,38 @@
+.update-btn {
+  color: white;
+  background-color: #7f19e6;
+  font-size: 18px;
+  border: 1px solid;
+  border-radius: 4px;
+  height: 50px;
+  width: 110px;
+  margin-right: 3px;
+}
+
+.nav-btn {
+  color: white;
+  background-color: #195de6;
+  font-size: 18px;
+  border: 1px solid;
+  border-radius: 4px;
+  height: 50px;
+  width: 110px;
+  margin-right: 3px;
+}
+
+.default-btn {
+  color: white;
+  background-color: #e619a1;
+  font-size: 18px;
+  border: 1px solid;
+  border-radius: 6px;
+  height: 40px;
+  width: 150px;
+}
+.update-btn:disabled,
+.nav-btn:disabled,
+.default-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+

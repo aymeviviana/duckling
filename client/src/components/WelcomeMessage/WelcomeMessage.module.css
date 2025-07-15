@@ -1,0 +1,15 @@
+.wrapper {
+  text-align: center;
+}
+
+.header {
+  font-size: 35px;
+  color: #195de6;
+  font-weight: bold;
+}
+
+.tagline {
+  color: #195de6;
+  font-size: 20px;
+  margin: 10px 0 10px 0;
+}
