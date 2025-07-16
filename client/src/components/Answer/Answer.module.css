@@ -1,4 +1,8 @@
 .wrapper {
   margin-top: 20px;
   font-size: 20px;
+  overflow: scroll;
+  max-height: 500px;
+  border: 1px solid lightblue;
+  padding: 10px;
 }
